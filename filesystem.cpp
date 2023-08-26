@@ -255,7 +255,7 @@ int main() {
     int input;
 
     printf("%s\n",root->getname());
-    printf("Guide For Folder");
+    printf("Guide For Folder\n");
     printf("To Display : 1\n");
     printf("To Create File : 2\n");
     printf("To Create Folder : 3\n");
